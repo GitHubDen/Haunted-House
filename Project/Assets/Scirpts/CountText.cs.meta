@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: 90cfbed11ec31a040a0d6d12eeac0a1c
+timeCreated: 1555001205
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ememiesText: {instanceID: 0}
+  - r1Cube: {instanceID: 0}
+  - r2Cube: {instanceID: 0}
+  - r2S1Cube: {instanceID: 0}
+  - r2s1Cube2: {instanceID: 0}
+  - r2Cube2: {instanceID: 0}
+  - r3Cube: {instanceID: 0}
+  - r3Cube2: {instanceID: 0}
+  - r4Cube: {instanceID: 0}
+  - r4Cube2: {instanceID: 0}
+  - r1Door01: {instanceID: 0}
+  - r2Door02: {instanceID: 0}
+  - r2Door03: {instanceID: 0}
+  - r2Door01: {instanceID: 0}
+  - r2SRDoor01: {instanceID: 0}
+  - r3Door01: {instanceID: 0}
+  - r3Door02: {instanceID: 0}
+  - r4Door01: {instanceID: 0}
+  - r4Door02: {instanceID: 0}
+  - outLine: {fileID: 2100000, guid: 3d938759d8b7a414988ec3261fb5265d, type: 2}
+  - outLine2: {fileID: 2100000, guid: 4524ca86f83414f49a8a1f4f8257fd3f, type: 2}
+  - outLine3: {fileID: 2100000, guid: 6aea2454b20923f4f95909865fcc03e3, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

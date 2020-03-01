@@ -1,0 +1,22 @@
+Team member name: Braeden Millette, Jason Vu
+SCS user id: bemillet, j4vu
+Percentage of work done: 50% each
+Percentage of mark deserved: 50% each
+
+
+Controls:
+Trigger = Pick up weapon
+Grip = Drop weapon
+Touchpad Press = Fire weapon
+Touch Floating Cube = Teleport
+
+
+// List any other attributions (code, assets) below:
+
+hospital horror pack free licenced under Unity-EULA
+https://assetstore.unity.com/packages/3d/environments/pbr-hospital-horror-pack-free-80117
+https://unity3d.com/legal/as_terms
+
+Simple Medieval Sword licenced under Unity-EULA
+https://assetstore.unity.com/packages/3d/props/weapons/simple-medieval-sword-876
+https://unity3d.com/legal/as_terms

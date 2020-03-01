@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: db5f8e6d39ddb62428a1614c40671d67
+timeCreated: 1554499385
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cameraRigTransform: {instanceID: 0}
+  - headTransform: {instanceID: 0}
+  - ghostPrefab: {fileID: 1317432382621144, guid: c2d4f6b78ac21d24fb13e429651911e6,
+      type: 2}
+  - ghost2Prefab: {fileID: 1124363076307848, guid: 33cf6b95e2bc72146b3c3ed82d686cc3,
+      type: 2}
+  - eyeballPrefab: {fileID: 1646348748233544, guid: 1119fd44876a14d42ae7202a12b8c40f,
+      type: 2}
+  - bigEyeballPrefab: {fileID: 1016687996264822, guid: 31bb6204a31a4fb41957fdb01e3fc115,
+      type: 2}
+  - cameraRig: {instanceID: 0}
+  - countScipt: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
